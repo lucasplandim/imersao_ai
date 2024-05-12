@@ -9,5 +9,5 @@ Este repositório contem arquivos relacionados à <b>Imersão IA: Alura + Google
 
 ### Link para o projeto final:
 <div>
-<a href="https://github.com/lucasplandim/imersao_ai/blob/ef14fb25149083de6fca72f005aaf1d5d9cd8893/Projeto_ai_imers%C3%A3o.ipynb">IAi, Vai Apostar? - Seu guia para apostas vencedoras!</a>
+<a href="https://github.com/lucasplandim/imersao_ai/blob/b32ccfbf22e8c48f6e69c011929ae013125fcdf3/Projeto_ai_imers%C3%A3o.ipynb">IAi, Vai Apostar? - Seu guia para apostas vencedoras!</a>
 </div>
