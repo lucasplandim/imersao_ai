@@ -27,3 +27,6 @@ Atualmente trabalho como SysAdmin numa grande empresa de Loyalty e, com a oportu
 
 ## Projeto final 💻
 - [IAi, Vai Apostar? - Seu guia para apostas vencedoras!](https://github.com/lucasplandim/imersao_ai/blob/b32ccfbf22e8c48f6e69c011929ae013125fcdf3/Projeto_ai_imers%C3%A3o.ipynb)
+
+<br>
+*Fim do arquivo README.md*
